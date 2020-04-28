@@ -1,0 +1,13 @@
+.block {
+    max-width: 500px;
+    position: relative;
+}
+
+.control {
+}
+
+@media (max-width: 768px) {
+    .block {
+        margin-top: 10px;
+    }
+}

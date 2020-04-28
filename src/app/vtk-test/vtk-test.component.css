@@ -1,0 +1,14 @@
+.block {
+    max-width: 500px;
+    position: relative;
+}
+
+table.controller {
+    position: absolute;
+}
+
+@media (max-width: 768px) {
+    .block {
+        margin-top: 10px;
+    }
+}
